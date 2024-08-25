@@ -8,7 +8,7 @@ Since 2019, I have been passionate about IT security and programming !
 
 *   🌍  I'm based in Paris
 *   ✉️  You can contact me at [bm.francisco@hotmail.com](mailto:bm.francisco@hotmail.com)
-*   🚀  I'm currently working on [Team King Gaming Website](http://www.teamkingaming.lysco.fr/)
+*   🚀  I'm currently working on Learning how to Bypass AV & Active Directory
 *   🧠  I'm learning Cybersecurity
 <a href="https://www.github.com/Retr0Lovelace" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Retr0Lovelace?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/0xRetr0" target="_blank" rel="noreferrer"><img
